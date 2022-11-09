@@ -1,0 +1,17 @@
+#add {
+    color: #ffffff;
+    background-color: #f3ba00;
+    margin: 0px 0px 0px 7px;
+    height: 20px;
+    width: 20px;
+  }
+  #remove {
+    color: #ffffff;
+    background-color: #f3ba00;
+    margin: 0px 7px 5px 35px;
+    height: 20px;
+    width: 20px;
+  }
+  #element{
+    display: inline-flex;
+  }

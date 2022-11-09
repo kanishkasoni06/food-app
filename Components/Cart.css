@@ -1,0 +1,20 @@
+#bag{
+    padding-left: 30px;
+    font-size:xx-large;
+    display: inline-flex;
+   }
+
+#Cart-box{
+    height: 500px;
+    width: 80%;
+    margin-left: 10%;
+    position: absolute;
+    z-index: 99;
+    display: block;
+    border-radius: 10px;
+    font-size: xx-large;
+}
+#Cart-box::placeholder{
+    font-size: xx-large;
+    text-align: center;
+}

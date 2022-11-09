@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto';
+}
+#service{
+    /* margin-top: 150px; */
+    background: linear-gradient(
+          to bottom,
+          #FAFAFA  0%,
+            #FAFAFA 50%,                                                                 
+          #C7EACC 50%,
+          #C7EACC 100%
+      )
+  }
+.servicetxt {
+    text-align: center;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    color: black;
+  }
+  .servicetxt2{
+    font-size: smaller;
+    text-align: center;
+  }
+  #service img{
+    width: 878px;
+  height: 442px;
+  margin-left: 20%;
+  margin-bottom: 100px;
+  }
