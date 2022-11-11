@@ -1,0 +1,28 @@
+#request-box{
+    height: 300px;
+    width: 60%;
+    box-shadow: rgba(255, 255, 255, 0.49);
+     margin-left: 18%; 
+    border-color: #1ac073;
+    border-width: 5px;
+    border-radius: 10px;
+    text-decoration: #1ac073;
+    position:absolute;
+    display: block;
+    font-size: x-large;
+    font-style: oblique;
+    color: black;
+}
+#request-box::placeholder{
+    color: black;
+    font-size: xx-large;
+    text-align: center;
+}
+#request {
+    width: 210px;
+    height: 48px;
+    background: #1ac073;
+    border-radius: 10px;
+    margin-left: 43%;
+    margin-top: 15px;
+  }

@@ -1,0 +1,39 @@
+*{
+  font-family: 'Roboto';
+}
+.Card {
+    background-color: #ffffff;
+    margin: 5px;
+    width: 277px;
+    height: 337px;
+    border-width: 1px;
+  }
+  #card-in {
+    display: inline-flex;
+    padding-bottom: 10px;
+  }
+  #rupee {
+    padding-left: 50px;
+    padding-right: 0%;
+  }
+  #price {
+    padding-left: 0%;
+  }
+  .Card p {
+    padding-left: 15px;
+    font-size: larger;
+  }
+  #innercard {
+    display: flex;
+  }
+  #innercard p {
+    border-width: 1px;
+    border-color: black;
+  }
+  #star {
+    padding-right: 0;
+  }
+  #rating {
+    padding-left: 0;
+    padding-right: 3px;
+  }

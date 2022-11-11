@@ -1,0 +1,50 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto';
+}
+#menu {
+  background-color: #f7f8fa;
+  padding-bottom: 150px;
+}
+
+#kitchen {
+  position: absolute;
+  width: 521.63px;
+  height: 325px;
+  left: 774px;
+  top: 239.9px;
+}
+#menuhead {
+  padding-top: 15px;
+  margin: 0px 0 10px 50px;
+  font-family: "Times New Roman", Times, serif;
+}
+.dish {
+  height: 50px;
+  width: 50px;
+}
+#row1 {
+  display: flex;
+  justify-content: space-around;
+}
+#row2 {
+  display: flex;
+  justify-content: space-around;
+}
+#row3 {
+  display: flex;
+  justify-content: space-around;
+}
+#popitems {
+  text-align: center;
+  margin: 20px 0px 20px 0px;
+}
+/* #request {
+  width: 210px;
+  height: 48px;
+  background: #1ac073;
+  border-radius: 10px;
+  margin-left: 43%;
+  margin-top: 15px;
+} */
